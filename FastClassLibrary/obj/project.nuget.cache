@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ci/98ki1q05NQfLnUXTr2BazL969M7fgroCSrXkQTgBI026AIO0/G+VZ5MbPJw/NJ8pGq4oOXx4s6qCDGePtCA==",
+  "success": true,
+  "projectFilePath": "C:\\Ha Hung\\2-project\\1-net-core\\TestFastApi\\TestFastApi\\FastClassLibrary\\FastClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\5.0.0\\microsoft.extensions.configuration.environmentvariables.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\MXGC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
