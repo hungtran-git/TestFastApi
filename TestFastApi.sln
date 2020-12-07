@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDI", "TestDI\TestDI.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSwagger", "DemoSwagger\DemoSwagger.csproj", "{8BF69D71-DE21-4207-A78F-566FA24AD925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{74772947-C6F1-4F21-BB3A-D14ED45F9AC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{74772947-C6F1-4F21-BB3A-D14ED45F9AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversityEFG", "ContosoUniversityEFG\ContosoUniversityEFG.csproj", "{80156E9B-89C7-4DB4-A852-228E73459978}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{74772947-C6F1-4F21-BB3A-D14ED45F9AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74772947-C6F1-4F21-BB3A-D14ED45F9AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74772947-C6F1-4F21-BB3A-D14ED45F9AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80156E9B-89C7-4DB4-A852-228E73459978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80156E9B-89C7-4DB4-A852-228E73459978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80156E9B-89C7-4DB4-A852-228E73459978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80156E9B-89C7-4DB4-A852-228E73459978}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
